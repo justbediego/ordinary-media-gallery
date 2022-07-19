@@ -1,9 +1,9 @@
 {
-  "name": "@minimal/material-kit-react",
-  "author": "minimals.cc",
+  "name": "guro-academy",
+  "author": "mashro",
   "licence": "MIT",
-  "version": "1.4.0",
-  "private": false,
+  "version": "1.0.0",
+  "private": true,
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
